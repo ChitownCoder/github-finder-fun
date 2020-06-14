@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Navbar = ({ icon, title }) => {
 	return (
-		//*I HAVE USED BG-PRIMARY TO CHANGE THE COLOR OF THE NAV AREA
+		//* I HAVE USED BG-PRIMARY TO CHANGE THE COLOR OF THE NAV AREA
 		<nav className="navbar bg-primary">
 			<h1>
 				{/*  I HAVE USED FONTAWESOME */}
